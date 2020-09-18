@@ -6,7 +6,7 @@ const UserOutput = (props) => {
         <div className="UserOutput">
         <p >userName :{props.userName} </p>       
         {/* the name userName should be like te name UserName in App.js in line 22 */}
-        <p >I hope it will work</p>
+        <p >I hope you're doing great</p>
         </div>
     )
     

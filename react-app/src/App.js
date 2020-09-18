@@ -7,7 +7,7 @@ import UserOutput from './UserOutput/UserOutput.js' ;
 
 class App extends Component {
   state = {
-    username:"changed to Eitharrrrr" 
+    username:"type your name" 
   };
    changeNameHandler = (event) => {
     
